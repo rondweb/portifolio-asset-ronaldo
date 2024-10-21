@@ -1,0 +1,492 @@
+
+EXPERIENCE
+April 2023 - present
+Founder and Chief Executive Officer
+Leaftix - Montreal
+
+I am the founder of Leaftix, a SaaS AI food production 
+technology company that develops data-driven solutions for 
+agriculture and agri-food industries. I have a strong background 
+in cloud computing, web development, AI, and IoT, and I use 
+various technologies such as Docker, Kubernetes, Pipelines, 
+Microsoft Azure, and Python to create innovative and scalable 
+products. 
+ 
+I have successfully designed and implemented the structure of 
+cloud services, using Docker and Kubernetes to ensure the 
+reliability and security of the applications. I have also analyzed 
+and created the pilots of web projects and AI applications using 
+Python as the programming language, applying deep learning 
+and machine learning techniques for predictive analytics. 
+Additionally, I have created IoT prototypes for weather 
+monitoring and control of the environment, using sensors and 
+actuators to collect and process data. 
+ 
+As the founder of Leaftix, I have also performed administrative 
+tasks, such as managing the budget and negotiating contracts.
+
+
+
+
+
+ 
+
+December 2022 - April 2023
+MLOPS Engineer
+CDPQ - Montreal
+
+As a MLOps Engineer with extensive experience in cloud 
+infrastructure development and management in a leading bank in 
+Montreal, I specialize in utilizing cutting-edge technologies and 
+industry best practices to build, deploy and maintain complex 
+machine learning pipelines. I excel in leveraging Azure DevOps and 
+AWS ecosystem including AWS Sagemaker, AWS EC2, AWS RDS, 
+AWS CloudFormation, AWS Cost Explorer, and AWS CloudWatch to 
+create and manage highly scalable and secure infrastructure for 
+MLOps.
+
+My skills and expertise in designing and implementing robust 
+MLOps pipelines allow me to help organizations automate their 
+machine learning workflows and improve the accuracy and efficiency 
+of their models. With a keen eye for detail and a passion for 
+delivering high-quality work, I collaborate with cross-functional 
+teams to ensure seamless integration between different components 
+of the MLOps infrastructure.
+
+Whether it's building data pipelines, managing data warehouses, 
+deploying and managing containerized applications, or monitoring 
+system health, I'm adept at leveraging my knowledge of MLOps 
+tools and technologies to create optimized and reliable 
+infrastructure. My strong problem-solving skills, attention to detail, 
+and ability to work under pressure have enabled me to deliver 
+exceptional results on time and within budget.
+
+Overall, I am a highly skilled MLOps Engineer who combines 
+technical expertise with project management skills to design and 
+implement scalable, secure, and high-performing infrastructure for 
+machine learning operations.
+
+Technologies:
+- Amazon AWS;
+- Microsoft Azure (CI/CD);
+- Python 3.9;
+- Kubernetes;
+- Docker;
+- Denodo;
+- Databricks;
+- Snowflake.
+
+
+
+
+ 
+
+Mars 2021 - August 2021
+Full Stack Developer
+CAE - Montréal
+
+In addition to my extensive experience in API, ETL, and Pipelines 
+development, I had the unique opportunity to work with the 
+largest aerospace company in Canada. As a key member of the 
+team, I played a critical role in developing and maintaining 
+solutions that supported multiple applications of VR flight 
+simulators for both civil and military purposes.
+
+I have been actively involved in all aspects of development, 
+including architecture, analysis, testing, and implementation. By 
+leveraging the latest tools and technologies, I have ensured that 
+the solutions I develop meet the highest quality standards. I have 
+also played a pivotal role in ensuring that our systems are 
+continuously integrated and deployed using Microsoft Azure 
+Pipelines, thereby ensuring smooth and seamless delivery.
+
+Additionally, I am well-versed in using Black/Pylint for code 
+quality and tests, and have gained experience in scripting Power 
+Shell and Bash to automate tasks. This expertise has enabled me 
+to optimize our systems for peak performance while minimizing 
+downtime.
+
+Technologies:
+- Microsoft Azure (CI/CD);
+- Python 3.9;
+- Kubernetes;
+- Docker;
+- Platform: Windows 10, Ubuntu 21.
+
+
+
+ 
+
+August 2021 - November 2021
+DevOps Developer Python
+Garda Security - Montreal
+
+As a web developer at GARDA Security, I was responsible for 
+developing and maintaining a web-based CRM (Customer 
+Relationship Management) system that allows the company to 
+manage its relationships with current and potential customers. 
+
+The CRM system is built using Python 3.9 as the programming 
+language for web development. I use Flask as the web 
+framework, which is a lightweight and flexible framework that 
+provides tools and libraries for building web applications. I use 
+PostgreSQL 13 as the database, which is a powerful and reliable 
+relational database system. 
+
+I participate in the various aspects of development, such as 
+architecture, which involves designing the structure and 
+components of the system, analysis, which involves 
+understanding the requirements and specifications of the system, 
+testing, which involves verifying the functionality and 
+performance of the system, and deployment, which involves 
+delivering the system to the end-users. 
+
+I use AWS, which is a cloud computing platform that offers 
+various services such as computing, storage, networking, and 
+security, GIT, which is a version control system that tracks 
+changes in the source code, Bitbucket, which is a web-based 
+hosting service that integrates with GIT and provides features 
+such as code review, issue tracking, and project management, 
+and Jenkins, which is a continuous integration and continuous 
+delivery tool that automates the building, testing, and 
+deployment of the system. 
+
+I also use Black/Pylint for code quality and testing, which are 
+tools that check the syntax, style, and errors of the code and 
+enforce consistent coding standards. 
+
+I used Celery/Flower for managing scheduled tasks, which are 
+tools that allow me to execute asynchronous tasks in the 
+background and monitor their progress and results.  
+ 
+Technologies:
+- Python 3.9; 
+- AWS (CI/CD); 
+- PostgreSQL 13; 
+- Celery/Flower; 
+- Platform: Windows 10.
+
+ 
+
+Mars 2021 - August 2021
+DevOps Tech Lead
+Curateur Public du Québec - Montreal
+
+As a Tech Lead at Curateur Public du Quebec, I participate in the 
+different aspects of development of the software applications 
+that support the mission and vision of the organization. The 
+Curateur Public du Quebec is a public body that protects the 
+rights and interests of incapacitated persons, minors, and 
+unclaimed property owners. The software applications that I work 
+on are designed to facilitate the management of these cases and 
+provide efficient and secure services to the public.
+
+I carry out preliminary and functional analysis to understand the 
+requirements and specifications of the software applications. I 
+write the appropriate documentation to ensure the continuity 
+and maintainability of the applications. I also participate in the 
+improvement of software development practices within the team, 
+such as DevOps, which is a set of practices that combines 
+software development and IT operations to deliver software 
+faster and more reliably.
+
+I maintain and ensure the evolution and respect of the solution 
+architecture in alignment with best practices. The solution 
+architecture is the high-level design of the software applications 
+that defines how they meet the business and technical objectives. 
+I help the team adopt modern cloud computing development 
+standards, including architecture, DevOps, and unit testing. Cloud 
+computing is the delivery of computing services over the 
+internet, such as servers, storage, databases, networking, 
+software, analytics, and intelligence. 
+
+Unit testing is a type of software testing that verifies the 
+functionality of individual units or components of the software.
+
+Technologies used:
+ - Microservices with .Net Core C# 3.1;
+ - Kubernetes 1.X;
+ - Docker;
+ - GitLab (CI/CD);
+ - Postgres SQL;
+ - Kong Api Getaway;
+ - Kuma Mesh.
+
+
+
+
+
+
+ 
+
+June 2020 - March 2021
+Analyst Developer
+Desjardins Quebec
+
+As a developer at Desjardins, I was involved in giving support on 
+the development of the IBM Lotus applications that were used by 
+the bank to manage its operations and services. IBM Lotus is a 
+suite of software products that includes Lotus Notes, Lotus 
+Domino, Lotus Sametime, Lotus Quick, and Lotus Symphony. 
+These products provide features such as email, calendar, 
+collaboration, document management, web conferencing, and 
+office productivity.
+
+My role was to cover problems of the cybersecurity related to the 
+IBM Lotus applications. Cybersecurity is the practice of protecting 
+systems, networks, and programs from digital attacks that aim to 
+access, change, or destroy sensitive information, extort money 
+from users, or interrupt normal business processes. Some of the 
+problems that I encountered and solved were:
+
+Unauthorized access: This problem occurs when someone 
+gains access to the IBM Lotus applications without proper 
+authorization or permission. This can compromise the 
+confidentiality, integrity, and availability of the data and 
+services. To prevent this problem, I implemented security 
+measures such as encryption, authentication, authorization, 
+and auditing. Encryption is the process of transforming 
+data into an unreadable format that can only be decrypted 
+by authorized parties. Authentication is the process of 
+verifying the identity of a user or device. Authorization is 
+the process of granting or denying access rights to a user 
+or device. Auditing is the process of recording and 
+reviewing the activities and events that occur on the IBM 
+Lotus applications.
+
+Data breach: This problem occurs when sensitive or 
+confidential data is leaked or exposed to unauthorized 
+parties. Data breach can result in financial loss, 
+reputational damage, legal liability, or regulatory penalties 
+for the bank and its customers. To prevent this problem, I 
+followed the data protection policies and procedures of 
+Desjardins and ensured that the IBM Lotus applications 
+complied with them. I also used data masking techniques 
+to hide or replace sensitive data with fictitious data when 
+transferring or storing it outside the IBM Lotus 
+applications.
+
+Technologies:
+- IBM Lotus.
+
+
+ 
+
+January 2019 - June 2020
+Analyst Developer
+Ministry of Justice of Quebec
+
+As a developer at the Ministry of Justice of Quebec, I was 
+involved in developing and maintaining the internal systems of 
+the ministry. The Ministry of Justice of Quebec is the department 
+of the government of Quebec that is responsible for the 
+administration of justice, public security, access to information, 
+and consumer protection in the province. The internal systems 
+that I worked on were designed to support the functions and 
+operations of the ministry and its various branches and agencies.
+
+My role was to give support for ancient features and create new 
+ones for the internal systems. Ancient features are the features 
+that were developed using older technologies or methodologies 
+and are no longer compatible or efficient with the current 
+standards or requirements. New features are the features that 
+were developed using newer technologies or methodologies and 
+are more compatible or efficient with the current standards or 
+requirements. Some of the tasks that I performed were:
+
+Supporting ancient features: This task involved fixing bugs, 
+resolving issues, optimizing performance, and ensuring 
+security of the ancient features. Bugs are errors or defects 
+in the code that cause unexpected or incorrect results. 
+Issues are problems or difficulties that affect the 
+functionality or usability of the features. Performance is the 
+measure of how fast or responsive the features are. 
+Security is the measure of how well the features protect 
+the data and services from unauthorized access or attacks. 
+To perform this task, I used to debug tools, testing tools, 
+monitoring tools, and security tools to identify and resolve 
+the bugs, issues, performance problems, and security risks 
+of the ancient features.
+
+Creating new features: This task involved designing, 
+developing, testing, and deploying new features for the 
+internal systems. Designing is the process of planning and 
+defining the structure and components of the features. 
+Developing is the process of writing and implementing the 
+code that executes the features. Testing is the process of 
+verifying and validating the functionality and quality of the 
+features. 
+
+Technologies:
+-  ASP.NET 5; 
+- C#; 
+- VB.NET; 
+- SQL Server; 
+- Microsoft TFS.
+
+
+January 2018 - December 2018
+Data Scientist
+Agronow Agritech - Brazil
+
+As a Data Scientist at Agritech Agronow, I was involved in 
+developing a web system based on satellite images to estimate 
+agricultural production. Agritech Agronow is a company that 
+provides solutions for the agribusiness sector using remote 
+sensing and data analysis. The web system that I worked on was 
+designed to provide accurate and timely information on the 
+current and future agricultural production of various crops and 
+regions.
+
+My main role was to develop the data classification algorithms 
+using Python, SciPy, and NumPy. Data classification is the process 
+of assigning labels or categories to data based on their features or 
+patterns. I used satellite imagery from Landsat 8 and Sentinel 2 as 
+the main source of data for estimating agricultural production. 
+Landsat 8 and Sentinel 2 are Earth observation satellites that 
+capture high-resolution images of the land surface in various 
+spectral bands. These images can be used to monitor vegetation 
+health, crop growth, soil moisture, land use, and land cover.
+
+I used Python as the programming language for developing the 
+data classification algorithms. I used SciPy as the framework for 
+implementing the data classification algorithms. I used NumPy as 
+the library for numerical computation and array manipulation.
+
+I used two types of data classification algorithms: supervised and 
+unsupervised. Supervised classification is a type of machine 
+learning that assigns labels to data based on predefined classes or 
+categories, such as crop type, crop stage, or crop yield. 
+Unsupervised classification is a type of machine learning that 
+groups data based on their similarities or patterns, such as spectral 
+signatures, spatial features, or temporal trends.
+
+For supervised classification, I used algorithms such as k-nearest 
+neighbors (KNN), support vector machines (SVM). These 
+algorithms learn from labeled training data and then predict labels 
+for new data based on their features or distances.
+For unsupervised classification, I used algorithms such as k-means 
+clustering (KMC). This algorithm discover clusters or components 
+of data based on their variance or independence.
+
+Technologies:
+ - Python;
+ - Pandas;
+ - Django;
+ - SciPy;
+ - NumPy;
+ - Ipython Notebook;
+
+
+October 2015 - Jan 2018
+Analyst Developer
+INPE - Instituto Brasileiro de Pesquisas Espaciais - Brazil
+
+As a GIS Developer at the Institute of Research Aerospatial in 
+Brazil pas team member of the program of investments in actions 
+of prevention, monitoring and combating deforestation, and 
+promoting conservation and sustainable use of the Amazon 
+Legal, I was involved in developing a web-based fire monitoring 
+system for Brazilian forests. INPE is a public institution that 
+conducts research and development in the fields of aerospace 
+science and technology. The web-based fire monitoring system 
+that I worked on was designed to provide timely and accurate 
+information on the location, extent, and severity of forest fires in 
+AMAZONIA.
+
+I used satellite imagery from Landsat 8 as the main source of 
+data for detecting and mapping forest fires using these images of 
+the land surface in various spectral bands. These images can be 
+used to monitor vegetation health, land use, land cover, and fire 
+activity.
+
+I used Python 2.7 as the programming language for developing 
+the web-based fire monitoring system using many libraries.
+
+I used Django 1.9 as the web framework for developing the web-
+based fire monitoring system to provide features such as object-
+relational mapping, template engine, authentication system, URL 
+routing, and admin interface.
+
+I used PostgresSQL (PostGIS) as the database for storing and 
+retrieving spatial data and PostGIS an extension of PostgresSQL 
+that adds support for geographic objects and spatial functions.
+
+I used Python Pandas, NumPy, and Ipython Notebook as the 
+tools for data manipulation and analysis working with tabular and 
+multidimensional data. 
+
+I used Ipython Notebook to create and share documents that 
+contain live code, equations, visualizations, and narrative text.
+
+I used R and RStudio as the tools for statistical computing and 
+graphics such as linear and nonlinear modeling, classical 
+statistical tests, time-series analysis, classification, clustering, and 
+more.
+
+I used GeoServer and MapServer as the tools for publishing and 
+serving spatial data over the web using multiple files such as 
+shapefiles, databases, raster files and KML.
+
+
+
+
+
+
+
+EDUCATION
+Technical Specialization In Artificial Intelligenc In IT 
+Candidate
+Collège de Bois-de-Boulogne, Montreal, QC
+
+January 2005 - August 2007
+College Degree In web development
+IBTA - Instituto Brasileiro de Tecnologia, Paulo.
+
+RESEARCH AND PUBLICATIONS
+Andrade, Ronaldo Nelis de (2017), Classificação 
+Semiautomática de Áreas Queimadas com o uso de Redes 
+Neurais http://bitly.ws/vqUq
+This paper presents an approach to improve the semi-automatic 
+detection of burned areas through the use of neural networks. The 
+approach is validated over a selected study area in the Brazilian 
+Cerrado against reference data derived from data classified by 
+experts. Methods are still being developed and improved, and 
+initial results corroborate the validity of the approach, which will 
+be extended to other study areas.
+
+SKILLS
+
+•	Languages: C# (8 years), Python (6 years), R (1 year), SQL (10 
+years), JavaScript (10 years), HTML (10 years), CSS (6
+years);
+•	Frameworks: .NET CORE (2 years), MVC (8 years), 
+TensorFlow (2 years), Keras (2 years), SciPy (3 years), 
+FastAPI (2 years), Django (3 years)
+•	Flask (2 years), LINQ (3 years), Jquery (3 years), Angular (1 
+year), Kubernetes (3 years), Docker (4 years), SCRUM (4 
+years);
+•	Cloud computing: AWS (4 years), Microsoft Azure (4 years), 
+Google Cloud (1 year).
+•	Database: PostgreSQL/PostGIS (6 years), SQL Server (8 
+years), Oracle (2 years), MySQL (4 years), NoSQL (6 years);
+•	CI/CD: Jenkins (1 year), Git (4 years), Azure Pipelines (2 
+years).
+•	Platform: Windows, Ubuntu.
+•	GIS / Geodata, Leaflet.
+
+
+
+LANGUAGES
+
+•	Portuguese: Native Proficiency
+•	English: Full Professional Proficiency
+•	French: Full Professional Proficiency
+•	Spanish: Basic Proficiency
+
+   EXTRAS
+
+•	Site: https://ronaldonelisdeandrade.com/
+•	LinkedIn: RONALDO ANDRADE | LinkedIn
+•	Blog: LeaftixBlogTech
+
